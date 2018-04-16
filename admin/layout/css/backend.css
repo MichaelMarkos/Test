@@ -1,0 +1,52 @@
+
+/*Start main */
+
+body{
+	background-color: #F4F4F4;
+}
+
+/*End main*/
+
+/*start login Form */
+
+.login{
+	width: 300px;
+	margin: 100px auto;
+}
+
+.login h4{
+	color:#888;
+}
+.login input{
+	margin-bottom: 10px;
+}
+.login .form-control{
+	background-color: #EAEAEA;
+}
+.login .btn{
+	background-color: #008dde;
+}
+
+.navbar{
+	border-redius:0;
+
+}
+
+.show-pass{
+	position: absolute;
+	top: 6px;
+	right: -30px;
+}
+
+
+
+/* staaaaart member page */
+
+h1{
+	font-size: 45px;
+	margin: 40px 0;
+	font-weight: bold;
+	color: #666;
+}
+
+/*End member page*/

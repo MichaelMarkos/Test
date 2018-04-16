@@ -1,0 +1,11 @@
+analysis E-comerce 
+------------------
+Pages & Features
+-settings
+-dashboard (info)
+-statistcs 
+-log
+-Users
+-comments
+
+
