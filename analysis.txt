@@ -1,5 +1,3 @@
-analysis E-comerce 
-------------------
 Pages & Features
 -settings
 -dashboard (info)
